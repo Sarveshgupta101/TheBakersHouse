@@ -143,6 +143,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-STRIPE_PUBLIC_KEY = 'pk_live_51M4jxuSIzj9Mf6pNIxTSi4hTyjQg4G4Xa6A8TPVv9OIvoqO4Q9xwh7EmJxUukoH2TQj0JLTZhO5NKMLCHglP1pKl00S70P7cmw'
-STRIPE_SECRET_KEY = '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'
+STRIPE_PUBLIC_KEY = 'enter your key'
+STRIPE_SECRET_KEY = 'enter your key'
 STRIPE_WEBHOOK_SECRET = ''
